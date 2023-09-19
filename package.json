@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "survey-core": "latest",
+    "survey-creator-core": "latest",
+    "survey-creator-react": "latest",
+    "survey-react-ui": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
